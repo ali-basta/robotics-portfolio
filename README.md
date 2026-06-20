@@ -49,7 +49,9 @@ This was a collaborative project built together with a colleague. I was involved
 | `quality_gate.py` | Standalone Flask service: camera-based inspection for the conveyor quality gate |
 
 ## Demo
-*(video coming soon)*
+A short clip showing the full voice-to-pick-and-place cycle in action (voice command given in Arabic, captioned in English):
+
+[**▶ Watch the demo video**](robot_demo_captioned.mp4)
 
 ---
 *Note: this repository contains a showcase version of code originally developed as part of a university research project, shared with permission. Internal network addresses and credentials have been removed/replaced with environment variables.*
