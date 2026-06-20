@@ -51,7 +51,7 @@ This was a collaborative project built together with a colleague. I was involved
 ## Demo
 A short clip showing the full voice-to-pick-and-place cycle in action (voice command given in Arabic, captioned in English):
 
-[**▶ Watch the demo video**](robot_demo_captioned.mp4)
+[**▶ Watch the demo video**](https://www.youtube.com/shorts/WAYct-D2C68)
 
 ---
 *Note: this repository contains a showcase version of code originally developed as part of a university research project, shared with permission. Internal network addresses and credentials have been removed/replaced with environment variables.*
